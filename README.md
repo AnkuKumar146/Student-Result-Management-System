@@ -43,7 +43,7 @@ The **Student Result Management System (SRMS)** is a software application design
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/student-result-management.git
+   git clone https://github.com/AnkuKumar146/Student-Result-Management-System.git
 Set up the database and import the provided schema.
 
 Open the project in your IDE.
